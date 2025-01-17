@@ -1,6 +1,6 @@
 #include <WiFiManager.h> // https://github.com/tzapu/WiFiManager
 
-String apiKey ="AOA4R0PCU0H0MRUI";
+String apiKey ="SUA-CHAVE-AQUI";
 const char* server = "api.thingspeak.com";
 
 int cont = 0;
